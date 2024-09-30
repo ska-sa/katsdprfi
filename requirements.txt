@@ -1,0 +1,10 @@
+-c https://raw.githubusercontent.com/ska-sa/katsdpdockerbase/master/docker-base-build/base-requirements.txt
+
+h5py
+matplotlib
+numpy
+six
+katsdpservices @ git+https://github.com/ska-sa/katsdpservices
+katsdptelstate @ git+https://github.com/ska-sa/katsdptelstate
+katdal @ git+https://github.com/ska-sa/katdal
+katpoint @ git+https://github.com/ska-sa/katpoint
