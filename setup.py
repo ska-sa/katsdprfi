@@ -9,9 +9,7 @@ setup (
     packages = find_packages(),
     package_data={'': ['html/*']},
     include_package_data = True,
-    scripts = [
-        "scripts/rfi.py",
-        ],
+    # scripts = ["scripts/rfi.py"],
     zip_safe = False,
     python_requires=">=3.8",
     install_requires=[
