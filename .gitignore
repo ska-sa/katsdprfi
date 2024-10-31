@@ -1,0 +1,12 @@
+
+# /
+/build
+/dist
+/*.egg-info
+*.pyc
+*~
+
+# /docs
+/docs/_build
+
+
